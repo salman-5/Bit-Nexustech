@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Bit** is a file watcher and version control utility designed to monitor changes in a directory. It tracks created, modified, and deleted files, allowing you to commit changes with messages and timestamps. This tool maintains a history of changes in a versioned format, enabling you to view and revert to previous states of the monitored directory.
+**Bit** is a simple version control designed to monitor changes in a directory. It tracks created, modified, and deleted files, allowing you to commit changes with messages and timestamps. This tool maintains a history of changes in a versioned format, enabling you to view previous states of the monitored directory.
 
 ## Features
 
@@ -38,25 +38,25 @@
 - **To view all the commands available**
 
 
-  ``bash
+  ```bash
   help
 ``
 - **To commit the changes**
 
-  ``bash
+ ```bash
   commit <message>
-  ``
+  ```
 - **To list available versions**
 
-  ``bash
+  ```bash
   list versions
-  ``
+  ```
 - **To list the changes**
 
 
-  `bash
+  ```bash
   list changes
-  ``
+  ````
 - *Exit**
 
   ``bash
