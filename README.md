@@ -22,8 +22,13 @@
 
 ### Building from Source
 
-1. **Clone the Repository**
+   ```bash
+  mkdir build
+  cd build
+  cmake ..
+  make
+````
+### Usage
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+    /path/to/executable/bit /home/user/my_project
