@@ -1,0 +1,3 @@
+/workspaces/Bit Nexustech/build/CMakeFiles/bit.dir
+/workspaces/Bit Nexustech/build/CMakeFiles/edit_cache.dir
+/workspaces/Bit Nexustech/build/CMakeFiles/rebuild_cache.dir

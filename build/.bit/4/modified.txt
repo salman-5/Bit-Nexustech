@@ -1,0 +1,7 @@
+./CMakeFiles
+./CMakeFiles/bit.dir
+./CMakeFiles/bit.dir/compiler_depend.make
+./CMakeFiles/bit.dir/src
+./CMakeFiles/bit.dir/src/interactive_terminal.cpp.o
+./CMakeFiles/bit.dir/src/interactive_terminal.cpp.o.d
+./bit

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bit.dir/src/main.cpp.o CMakeFiles/bit.dir/src/interactive_terminal.cpp.o CMakeFiles/bit.dir/src/Bit.cpp.o -o bit 
