@@ -40,7 +40,7 @@
 
   ```bash
   help
-``
+   ```
 - **To commit the changes**
 
  ```bash
@@ -56,9 +56,9 @@
 
   ```bash
   list changes
-  ````
+  ```
 - *Exit**
 
-  ``bash
+  ```bash
   exit
-  ``
+  ```
