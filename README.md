@@ -32,3 +32,29 @@
 
    ```bash
     /path/to/executable/bit /home/user/my_project
+
+### Commands
+
+- **To view all the commands available**
+
+
+  ```bash
+  help
+
+- **To commit the changes**
+
+  ```bash
+  commit <message>
+- **To list available versions**
+
+  ```bash
+  list versions
+- **To list the changes**
+
+
+  ```bash
+  list changes
+- *Exit**
+
+  ```bash
+  exit
