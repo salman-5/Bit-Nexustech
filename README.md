@@ -37,28 +37,27 @@
 
 - **To view all the commands available**
 
-
-  ```bash
+```bash
   help
-   ```
+```
 - **To commit the changes**
 
- ```bash
+```bash
   commit <message>
-  ```
+```
 - **To list available versions**
 
-  ```bash
+```bash
   list versions
-  ```
+```
 - **To list the changes**
 
 
-  ```bash
+```bash
   list changes
-  ```
-- *Exit**
+```
+- **Exit**
 
-  ```bash
+```bash
   exit
-  ```
+```
